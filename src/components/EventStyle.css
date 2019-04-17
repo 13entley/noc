@@ -1,0 +1,63 @@
+.body{
+    background-color:black;
+}
+
+.noc-body{
+    background-color:black;
+}
+
+.noc-content{
+    padding-left:20vw;
+    padding-right:20vw;
+}
+.artist {
+    height: 50px;
+    width: 50px;
+}
+.item {
+    display:flex;
+    align-content: center;
+    position: center;
+    background-color:black;
+}
+
+.content {
+    align-content:center;
+    justify-content: center;
+    color: turquoise;
+    font-weight:bold;
+}
+
+.date-header{
+    padding-top:0.5em;
+    color:white;
+    font-size:20px;
+}
+
+/*.image img {*/
+
+/*}*/
+
+
+.venue-location{
+    display:flex;
+    flex-direction:row;
+}
+
+
+.title-header {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    padding-bottom: 5vh;
+}
+
+.left{
+
+}
+.right{
+
+}
+
+
